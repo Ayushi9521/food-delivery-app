@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Outfit:wght@100..900&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Outfit;
+}
+
+body{
+  min-height: 100vh;
+  background-color: #fcfcfc;
+}
+a{
+  text-decoration: none !important;
+  color: inherit !important;
+}
+hr{
+  border: none;
+  height: 1px;
+  background-color: #a9a9a9;
+}
+.app-component{
+  display: flex;
+}
+p{
+  margin-bottom: 0 !important;
+}
+.flex-col{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.cursor{
+  cursor: pointer;
+}

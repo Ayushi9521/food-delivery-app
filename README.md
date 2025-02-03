@@ -41,6 +41,27 @@ A full-stack food delivery app built with **React.js**, **Node.js**, **Express**
 - Node.js
 - MongoDB instance (can be a local or cloud MongoDB database)
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/Home1.png)
+![Home Page](screenshots/Home2.png)
+![Home Page](screenshots/footer.png)
+
+### Cart Page
+![Cart Page](screenshots/Cart.png)
+
+
+### Order History Page
+![Order History Page](screenshots/OrderHistory.png)
+
+### Admin Panel
+![Admin Panel](screenshots/Additem.png)
+![Admin Panel](screenshots/List.png)
+![Admin Panel](screenshots/OrderAdmin.png)
+
+
+
 ### Steps to Run the Project
 
 #### 1. Clone the Repository
@@ -79,23 +100,4 @@ Frontend:
 cd frontend
 npm start
 
-
-## Screenshots
-
-### Home Page
-![Home Page](screenshots/Home1.png)
-![Home Page](screenshots/Home2.png)
-![Home Page](screenshots/footer.png)
-
-### Cart Page
-![Cart Page](screenshots/Cart.png)
-
-
-### Order History Page
-![Order History Page](screenshots/OrderHistory.png)
-
-### Admin Panel
-![Admin Panel](screenshots/Additem.png)
-![Admin Panel](screenshots/List.png)
-![Admin Panel](screenshots/OrderAdmin.png)
 
